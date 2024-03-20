@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>博客日志</title>
+    <link href="/2024/03/20/log/"/>
+    <url>/2024/03/20/log/</url>
+    
+    <content type="html"><![CDATA[<h3 id="2024-3-20"><a href="#2024-3-20" class="headerlink" title="2024&#x2F;3&#x2F;20"></a>2024&#x2F;3&#x2F;20</h3><p>创建评论系统（失败），二次优化</p><h3 id="2024-3-19"><a href="#2024-3-19" class="headerlink" title="2024&#x2F;3&#x2F;19"></a>2024&#x2F;3&#x2F;19</h3><p>创建博客，初步优化</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World（该文章为Hexo自带，有做删改）</title>
     <link href="/2024/03/19/hello-world/"/>
     <url>/2024/03/19/hello-world/</url>
